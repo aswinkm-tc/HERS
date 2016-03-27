@@ -1,0 +1,20 @@
+﻿HERS is acronym for Human Emotion Recognition System
+Its an AI which takes two real time inputs
+The inputs are:
+1.Live video recording of a person's face
+2.Live audio recording 
+
+Goal: 
+To make a self learning device which is able to recognize people's emotions and respond correspondingly.
+temporary goal:
+the  primary goal is to build  an input processing system which takes these inputs, process them and store it in a database.
+the secondary goal is to build a support vector machine which reads data from the database and process it
+Note: No actual input is stored during any of these processes, the processed data will be in form of real numbers or objects carrying real numbers.
+the tertiary goal is to build a UI upon the SVM. Which displays the video feed, shows visualization of the audio feed and also display the emotion
+the fourth goal is to replace the emotion display system with a emotion responding system
+
+PROGRAMMING
+programming is done in python.
+the UI and VM are build in python
+
+ 
